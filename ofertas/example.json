@@ -1,0 +1,111 @@
+{
+    "schedules": [
+        {
+            "id": "8642596",
+            "startDateTime": "2024-09-25T13:00:00Z",
+            "endDateTime": "2024-09-25T15:00:00Z",
+            "shipperName": "maria de fatima goncalves cardoso",
+            "shipperVicinity": "Bela Vista",
+            "pickupOfferList": [
+                {
+                    "id": "3018865",
+                    "transportType": "TRANSPORT_TYPE_CAR",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-23T23:15:43.619751Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "maria de fatima goncalves cardoso",
+            "pickupOriginVicinity": "Bela Vista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 18.12,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 2,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653572",
+            "startDateTime": "2024-09-25T13:00:00Z",
+            "endDateTime": "2024-09-25T15:00:00Z",
+            "shipperName": "graciolli empreendimentos imobiliarios ltda",
+            "shipperVicinity": "Jardim Sapopemba",
+            "pickupOfferList": [
+                {
+                    "id": "3020415",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:19:37.814895Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "graciolli empreendimentos imobiliarios ltda",
+            "pickupOriginVicinity": "Jardim Sapopemba",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 22.73,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "schedulesCount": 154241
+}

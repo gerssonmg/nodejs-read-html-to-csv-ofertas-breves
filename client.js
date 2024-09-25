@@ -6,14 +6,14 @@ const base_real = {};
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const base_OCA = {};
 
-// const lmc_identification = 'leve-ms-campo-grande-cel-antonino_bf40';
-const lmc_identification = 'leve-sp-mooca-teste-agendado_11468';
+const lmc_identification = 'leve-ms-campo-grande-cel-antonino_bf40';
+// const lmc_identification = 'leve-sp-mooca-teste-agendado_11468';
 
-// const dc_id = '900';
-const dc_id = '5009';
+const dc_id = '900';
+// const dc_id = '5009';
 
-// const routing_code = 'CG5';
-const routing_code = 'OCA';
+const routing_code = 'CG5';
+// const routing_code = 'OCA';
 
 const lmc_dc = `${lmc_identification}:${dc_id}`;
 
@@ -23,11 +23,11 @@ const url_circle_list = `${dns_path}/api/v1/${lmc_dc}/circle/list?distribution_c
 
 const url_circle_update = `${dns_path}/api/v1/${lmc_dc}/circle/update/unit-load?FKP=Arco_gerson_nodejs`;
 
-async function requestLPN(write = false) {
+async function requestGetCircleByBase(write = false) {
   // Pegando circulos da Base
   console.log(url_circle_list);
   const { circles } = await axios
-    .get(url_circle_list, { headers })
+    .get(url_circle_list + '_' + write, { headers })
     .then((response) => {
       return response.data;
     })
@@ -35,14 +35,35 @@ async function requestLPN(write = false) {
       console.error('Erro na requisição:', error.message);
     });
 
-  // console.log('Circles:', circles);
+  await metricsByCircles(circles);
 
-  const circlesFirst = circles.slice(0, 1);
-  console.log('circlesFirst:', circlesFirst);
-  await requestCircles(circlesFirst, write);
+  // const circlesFirst = circles.slice(0, 1);
+  // console.log('circlesFirst:', circlesFirst);
+  // const circle_updated = await requestCircles(circlesFirst, write);
+  // console.log('circle_updated:', circle_updated);
+}
+
+async function metricsByCircles(circles) {
+  // console.log('Circles:', circles);
+  const data = circles.map((circle) => {
+    console.log(`Circle: ${circle.name} - ULs: ${circle.unitLoads.length}`);
+    return {
+      id: circle.id,
+      name: circle.name,
+      ulCount: circle.unitLoads.length,
+      citiesCount: circle.cities.length,
+      driversCount: circle.drivers.length,
+      keywords: circle.keywords.length,
+      operators: circle.operators.length,
+    };
+  });
+
+  console.log(data.sort((a, b) => b.ulCount - a.ulCount));
 }
 
 async function requestCircles(circles, write) {
+  circle_updated = [];
+
   console.log('Function requestCircles');
   for (const circle of circles) {
     // Fazendo request Leve -> LW,
@@ -50,14 +71,15 @@ async function requestCircles(circles, write) {
 
     // Se não tiver, fazendo request PUT para remover UL do circle
     for (const lpn of circle.unitLoads) {
-      console.log(`REQUEST circle:${circle.name} UL:${lpn}`);
+      console.log(`\n REQUEST circle:${circle.name} UL:${lpn}`);
 
       const url = `${dns_path}/proxy/last-mile/v1/leve/unit_load/${lpn}/packages/detail/?distribution_center_id=900&last_mile_company_id=leve-ms-campo-grande-cel-antonino_bf40&routing_code=CG5&FKP=Arco_gerson_nodejs`;
 
       await axios
-        .get(url, { headers })
+        .get(url + '_' + write, { headers })
         .then(async (response) => {
           if (response?.data?.packageDetails) {
+            circle_updated.push(lpn);
             console.log('TEM PACOTE');
           } else {
             console.log('NÃO TEM PACOTE');
@@ -69,7 +91,7 @@ async function requestCircles(circles, write) {
             if (write)
               await axios
                 .put(
-                  url_circle_update,
+                  url_circle_update + '_' + write,
                   {
                     circleId: circle.id,
                     unitLoad: lpn,
@@ -96,6 +118,8 @@ async function requestCircles(circles, write) {
         });
     }
   }
+
+  return circle_updated;
 }
 
-requestLPN();
+requestGetCircleByBase(false);

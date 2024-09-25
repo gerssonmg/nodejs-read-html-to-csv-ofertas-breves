@@ -1,0 +1,1699 @@
+{
+    "schedules": [
+        {
+            "id": "8642596",
+            "startDateTime": "2024-09-25T13:00:00Z",
+            "endDateTime": "2024-09-25T15:00:00Z",
+            "shipperName": "maria de fatima goncalves cardoso",
+            "shipperVicinity": "Bela Vista",
+            "pickupOfferList": [
+                {
+                    "id": "3018865",
+                    "transportType": "TRANSPORT_TYPE_CAR",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-23T23:15:43.619751Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "maria de fatima goncalves cardoso",
+            "pickupOriginVicinity": "Bela Vista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 18.12,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 2,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653572",
+            "startDateTime": "2024-09-25T13:00:00Z",
+            "endDateTime": "2024-09-25T15:00:00Z",
+            "shipperName": "graciolli empreendimentos imobiliarios ltda",
+            "shipperVicinity": "Jardim Sapopemba",
+            "pickupOfferList": [
+                {
+                    "id": "3020415",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:19:37.814895Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "graciolli empreendimentos imobiliarios ltda",
+            "pickupOriginVicinity": "Jardim Sapopemba",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 22.73,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8642225",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "Kamilly Godoi",
+            "shipperVicinity": "Conjunto Promorar Sapopemba",
+            "pickupOfferList": [
+                {
+                    "id": "3018439",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-23T17:04:53.436329Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "Kamilly Godoi",
+            "pickupOriginVicinity": "Conjunto Promorar Sapopemba",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 22.04,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8642284",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "Kamilly Godoi",
+            "shipperVicinity": "Conjunto Promorar Sapopemba",
+            "pickupOfferList": [
+                {
+                    "id": "3018553",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-23T17:22:25.649074Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "Kamilly Godoi",
+            "pickupOriginVicinity": "Conjunto Promorar Sapopemba",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 22.04,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8642514",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "barbara elisa rodrigues giesinger",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3018784",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-23T20:41:01.590847Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "barbara elisa rodrigues giesinger",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 16.95,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8642646",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "barbara elisa rodrigues giesinger",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3018916",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T02:00:42.659308Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "barbara elisa rodrigues giesinger",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 16.95,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653454",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "julia gomes de souza",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020297",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_CANCELLED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:20:12.620365Z",
+                    "statusDisplay": "Cancelada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "statusLastUpdateTime": "2024-09-24T11:20:12.623224Z",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "julia gomes de souza",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653478",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "julia gomes de souza",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020321",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_CANCELLED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:14:20.192693Z",
+                    "statusDisplay": "Cancelada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "statusLastUpdateTime": "2024-09-24T11:14:20.195179Z",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "julia gomes de souza",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653516",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "julia gomes de souza",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020359",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_CANCELLED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:20:06.643465Z",
+                    "statusDisplay": "Cancelada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "statusLastUpdateTime": "2024-09-24T11:20:06.646375Z",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "julia gomes de souza",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653544",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "julia gomes de souza",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020387",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_CANCELLED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:19:59.693438Z",
+                    "statusDisplay": "Cancelada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "statusLastUpdateTime": "2024-09-24T11:19:59.696870Z",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "julia gomes de souza",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653558",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "julia gomes de souza",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020401",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_CANCELLED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:19:53.668602Z",
+                    "statusDisplay": "Cancelada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "statusLastUpdateTime": "2024-09-24T11:19:53.671552Z",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "julia gomes de souza",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653610",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "mediasmart",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020453",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:23:34.015096Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "mediasmart",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653619",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "mediasmart",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020462",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:24:38.277969Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "mediasmart",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653629",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "mediasmart",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020472",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:25:48.771065Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "mediasmart",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653641",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "mediasmart",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020484",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:26:51.858967Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "mediasmart",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8653658",
+            "startDateTime": "2024-09-24T17:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "mediasmart",
+            "shipperVicinity": "Jardim Paulista",
+            "pickupOfferList": [
+                {
+                    "id": "3020501",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:28:18.858167Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "mediasmart",
+            "pickupOriginVicinity": "Jardim Paulista",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 13.91,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8610800",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "Mercia Menoni",
+            "shipperVicinity": "Vila Monumento",
+            "pickupOfferList": [
+                {
+                    "id": "3016707",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-23T13:56:40.479851Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "Mercia Menoni",
+            "pickupOriginVicinity": "Vila Monumento",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8642653",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "Silvio",
+            "shipperVicinity": "Cidade Monções",
+            "pickupOfferList": [
+                {
+                    "id": "3018923",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T03:03:24.950301Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "Silvio",
+            "pickupOriginVicinity": "Cidade Monções",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 22.88,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8647690",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "Raquel Brick",
+            "shipperVicinity": "Paraíso",
+            "pickupOfferList": [
+                {
+                    "id": "3019942",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:08.968839Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "Raquel Brick",
+            "pickupOriginVicinity": "Paraíso",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8648372",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "Wilson Santos Cardoso",
+            "shipperVicinity": "Brás",
+            "pickupOfferList": [
+                {
+                    "id": "3019946",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:32.698740Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "Wilson Santos Cardoso",
+            "pickupOriginVicinity": "Brás",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8648684",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "ALEXANDER PEREIRA MARQUES",
+            "shipperVicinity": "Canindé",
+            "pickupOfferList": [
+                {
+                    "id": "3019948",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:35.338331Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "ALEXANDER PEREIRA MARQUES",
+            "pickupOriginVicinity": "Canindé",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8648833",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "Marcelo Otávio martins comércio me",
+            "shipperVicinity": "Parque Novo Mundo",
+            "pickupOfferList": [
+                {
+                    "id": "3019949",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:37.117201Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "Marcelo Otávio martins comércio me",
+            "pickupOriginVicinity": "Parque Novo Mundo",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 15.31,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649147",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "VOPOO LTDA",
+            "shipperVicinity": "Chácara Califórnia",
+            "pickupOfferList": [
+                {
+                    "id": "3019951",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:41.437908Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "VOPOO LTDA",
+            "pickupOriginVicinity": "Chácara Califórnia",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 14.23,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649227",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "ACHADOS MELS COMERCIO LTDA",
+            "shipperVicinity": "Tatuapé",
+            "pickupOfferList": [
+                {
+                    "id": "3019954",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:42.210166Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "ACHADOS MELS COMERCIO LTDA",
+            "pickupOriginVicinity": "Tatuapé",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649375",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "ITWO LTDA",
+            "shipperVicinity": "Vila Prudente",
+            "pickupOfferList": [
+                {
+                    "id": "3019959",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:44.113886Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "ITWO LTDA",
+            "pickupOriginVicinity": "Vila Prudente",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649395",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "49.461.867 GABRIEL MOTTA COLI PUTT",
+            "shipperVicinity": "Brás",
+            "pickupOfferList": [
+                {
+                    "id": "3019960",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:44.688566Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "49.461.867 GABRIEL MOTTA COLI PUTT",
+            "pickupOriginVicinity": "Brás",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649407",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "LANCER DISTRIBUIDORA DE EQUIPAMENT",
+            "shipperVicinity": "República",
+            "pickupOfferList": [
+                {
+                    "id": "3019961",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:44.755620Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "LANCER DISTRIBUIDORA DE EQUIPAMENT",
+            "pickupOriginVicinity": "República",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649475",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "darlan assis oliveira  de santana",
+            "shipperVicinity": "Ipiranga",
+            "pickupOfferList": [
+                {
+                    "id": "3019964",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:46.218107Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "darlan assis oliveira  de santana",
+            "pickupOriginVicinity": "Ipiranga",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649649",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T19:00:00Z",
+            "shipperName": "MIKE STORE LOCACAO E COMERCIO LTDA",
+            "shipperVicinity": "Brás",
+            "pickupOfferList": [
+                {
+                    "id": "3019969",
+                    "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:48.354940Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "MIKE STORE LOCACAO E COMERCIO LTDA",
+            "pickupOriginVicinity": "Brás",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 12.78,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8649678",
+            "startDateTime": "2024-09-24T16:00:00Z",
+            "endDateTime": "2024-09-24T21:00:00Z",
+            "shipperName": "VALMIRO VIEIRA DOS SANTOS",
+            "shipperVicinity": "Carandiru",
+            "pickupOfferList": [
+                {
+                    "id": "3019971",
+                    "transportType": "TRANSPORT_TYPE_CAR",
+                    "status": "PICKUP_STATUS_SCHEDULED",
+                    "driverId": "0",
+                    "lastModifiedTime": "2024-09-24T11:00:48.862084Z",
+                    "statusDisplay": "Agendada",
+                    "driverName": "",
+                    "driverTransportType": "TRANSPORT_TYPE_INVALID",
+                    "packageCount": 0,
+                    "demandType": "DEMAND_TYPE_PICKUP",
+                    "regionName": ""
+                }
+            ],
+            "pickupType": "PICKUP_TYPE_INVALID",
+            "pickupOriginName": "VALMIRO VIEIRA DOS SANTOS",
+            "pickupOriginVicinity": "Carandiru",
+            "volumesCount": "0",
+            "legsCount": "0",
+            "firstLegDistance": 0.0,
+            "volumesCountToday": "0",
+            "offerTime": "2024-09-24T12:25:09.673978Z",
+            "compensationValue": 27.59,
+            "bagSeal": "",
+            "capacityReserve": false,
+            "modalCombinations": [
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_VAN",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 1,
+                            "transportType": "TRANSPORT_TYPE_CAR",
+                            "regionName": ""
+                        }
+                    ]
+                },
+                {
+                    "modals": [
+                        {
+                            "quantity": 2,
+                            "transportType": "TRANSPORT_TYPE_MOTORCYCLE",
+                            "regionName": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "schedulesCount": 154241
+}
